@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="weather">Weather</string>
+    <string name="coordinate">COORDINATE</string>
+    <string name="location">Location</string>
+    <string name="cordinate">CORDINATE :-</string>
+</resources>
